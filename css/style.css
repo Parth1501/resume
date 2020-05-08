@@ -1,0 +1,170 @@
+html {
+  scroll-behavior: smooth;
+}
+.navbar {
+   text-align: right;
+    font-family: 'PT Sans', sans-serif;
+}
+.card-body {
+  background-image: linear-gradient( #E4f9f5, white);
+}
+h1 {
+  color:#66BFBF;
+  font-size: 5.625em;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 ;
+
+}
+hr {
+  margin-top: 35px;
+  border-style: dotted none none none;
+  width:5%;
+  border-color: grey;
+  border-width: 5px;
+}
+body {
+
+  text-align: center;
+  margin: 0px;
+  font-family: 'Merriweather', serif;
+
+}
+.navigationbar{
+
+  background-color: #E4f9f5;
+  
+}
+
+h2 {
+  font-weight: normal;
+  color:#66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.Immage {
+  length: 25%;
+  width:25%;
+  border-radius: 100%;
+  float: left;
+  padding: 30px;
+}
+.top_container {
+  position: relative;
+  padding: 100px;
+  background-color: #E4f9f5;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+  
+  background-color: rgb(0, 0, 0);
+  padding: 20px;
+  font-family: 'Merriweather', serif;
+}
+
+.bottom-cloud {
+  
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.pro {
+
+  text-decoration: underline;
+}
+
+.skill-row {
+  padding: 10px;
+  margin-left: 5%;
+  text-align: left;
+  font-family: 'PT Sans', sans-serif;
+}
+.card-deck{
+  text-align: center;
+  
+}
+
+
+
+
+.ep {
+  color: #11999E;
+}
+
+.Copy-right {
+  color: white;
+  margin:10px;
+  font-size: 0.75rem;
+  margin-bottom: 0px;
+}
+.languages{
+  text-align: center;
+
+}
+.progress {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.languages p{
+  margin-top: 10px;
+  margin-left: 100px;
+  text-align: left;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.5em;
+}
+
+
+.projects{
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 50px;
+}
+.projects h5{
+ color: #11999E ;
+}
+
+.projects p{
+  text-align: left;
+  font-size: 1.1em;
+  font-family: 'PT Sans', sans-serif;
+  
+}
+.ml-auto {
+  left: auto !important;
+  right: 0px;
+}
+.gitlink{
+  font-style: italic;
+  font-size: 1em;
+  color: #66b3ff;
+}
+.projectitem {
+  background-color: #E4f9f5;
+}
+#navigationbar a{
+  color: white;
+}
+#navigationbar a:hover{
+  color: rgb(218, 236, 213);
+}
+.nav-item {
+  padding-right: 20px;
+}
