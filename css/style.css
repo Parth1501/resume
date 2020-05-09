@@ -1,6 +1,7 @@
 html {
   scroll-behavior: smooth;
 }
+
 .navbar {
    text-align: right;
     font-family: 'PT Sans', sans-serif;
@@ -27,7 +28,18 @@ body {
   text-align: center;
   margin: 0px;
   font-family: 'Merriweather', serif;
+    animation: fadeInAnimation ease 3s; 
+    animation-iteration-count: 1.5; 
+    animation-fill-mode: forwards;
 
+}
+@keyframes fadeInAnimation { 
+  0% { 
+      opacity: 0; 
+  } 
+  100% { 
+      opacity: 1; 
+   } 
 }
 .navigationbar{
 
