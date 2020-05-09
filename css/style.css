@@ -6,7 +6,7 @@ html {
     font-family: 'PT Sans', sans-serif;
 }
 .card-body {
-  background-image: linear-gradient( #E4f9f5, white);
+  background-image: linear-gradient( rgb(254, 255, 169), white);
 }
 h1 {
   color:#66BFBF;
